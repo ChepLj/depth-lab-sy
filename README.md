@@ -15,4 +15,3 @@ To add own depth maps permanently put them in the `extensions/sd-webui-depth-lib
 
 ## Attention
 Do not select anything for the Preprocessor in ControlNet.
-"# depth-lab-sy" 
